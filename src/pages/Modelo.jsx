@@ -19,8 +19,6 @@ function Modelo () {
 
                  <p>O valor de de cada projeto é relativo ao grau artistico do mesmo, o valor total e outras informações estão na descrição, clique em SAIBA MAIS e leia atenciosamente..</p>
                  </p>
-                 
-                 <p>Texte</p>
              
            </article>
               
