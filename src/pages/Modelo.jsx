@@ -17,8 +17,10 @@ function Modelo () {
 
                   <p>E lembre-se o seu corpo é perfeito como é e farei o meu melhor para destacá-lo como tal.</p> 
 
-                 <p>O valor de de cada projeto é relativo ao grau artistico do mesmo, o valor total e outras informações estão na descrição, clique em SAIBA MAIS e leia atenciosamente.</p>
+                 <p>O valor de de cada projeto é relativo ao grau artistico do mesmo, o valor total e outras informações estão na descrição, clique em SAIBA MAIS e leia atenciosamente..</p>
                  </p>
+                 
+                 <p>Texte</p>
              
            </article>
               
